@@ -7,7 +7,7 @@ package ListasEnlazadas;
 
 /**
  *
- * @author Kevin Loarca
+ * @author Kevin Loarca 0901-17-11537
  */
 public class Inicio {
 
@@ -26,6 +26,9 @@ public class Inicio {
 	System.out.println("borrar");
 	miLista.borrarUltimo();
         miLista.borrarPrimero();
+        miLista.Localizacion();
+        miLista.borrarPosicion(5);
+        
 	
 	System.out.println(miLista.Listar());
 // TODO code application logic here

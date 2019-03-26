@@ -7,7 +7,7 @@ package ListasEnlazadas;
 
 /**
  *
- * @author Kevin Loarca
+ * @author Kevin Loarca 0901-17-11537
  */
 public class Nodo 
 {
