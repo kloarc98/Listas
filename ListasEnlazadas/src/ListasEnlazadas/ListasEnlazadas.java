@@ -7,7 +7,7 @@ package ListasEnlazadas;
 
 /**
  *
- * @author EDUARDO
+ * @author Kevin Loarca
  */
 public class ListasEnlazadas
 {
